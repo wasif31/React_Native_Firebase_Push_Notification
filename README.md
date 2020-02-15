@@ -9,3 +9,11 @@ and get ssh1 key by (https://stackoverflow.com/questions/27609442/how-to-get-the
 and yous it in firebase project ssh1
 4.gradelw clean or sync gradel winh android studio
 5.chack project name from manifest and use it in https://console.firebase.google.com/
+
+
+
+for ios
+1.create firebase app(add in exisiting app)
+2.change package name
+3.goto ios folder and type cli "install pod"
+4.follow https://medium.com/@ankushaggarwal/generate-apns-certificate-for-ios-push-notifications-85e4a917d522
